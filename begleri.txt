@@ -1,0 +1,22 @@
+start Mini_Windmill
+[x:b1:23:Hb:=:b2:|:Hf:]
+[~:b2:.:Hfv:.:Hb^:.:&:o:b1:2:]
+end
+start The_Drop
+[x:b1:&:b2:712345:]
+[o:b1:&:b2:712345:]
+end
+start An_Aquaintance
+[x:b1:12:=:b2:|:Hf:]
+[stloop:]
+[o:b1:12:&:x:b2:12:]
+[*:b1:|:Hf:]
+[swap:]
+[endloop:]
+end
+start Wiggle_Time
+[stloop:]
+[o:1:]
+[x:1:]
+[endloop:]
+end
