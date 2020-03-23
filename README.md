@@ -1,6 +1,8 @@
 # BegleriNotation
 An applet to convert a custom Begleri notation into easy to read text
 
+Note: PySimpleGUI is required
+
 # Notation
 The notation can be found in the .py file, but is included here for reference:
 ```python
