@@ -45,9 +45,9 @@ Enter in the notation formatted like so:
 start Name_Of_Move
 [foo:bar:baz]
 end
-start Name_Of_Move_The_Sequel
-[oof:rab:zab]
+start Another_Move_Here
+[more:instructions:here]
 end
 ```
 
-There are some example moves included in the file already.
+There are some example moves included.
